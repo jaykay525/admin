@@ -1,0 +1,15 @@
+{
+    "name": "jaykay525/admin",
+    "description": "Yii2 rbac",
+    "keywords": ["yii2","admin","test"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jaykay525",
+            "email": "258036878@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+}
