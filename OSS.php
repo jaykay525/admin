@@ -1,8 +1,6 @@
 <?php
 /**
- * author     : forecho <caizhenghai@gmail.com>
- * createTime : 2016/3/16 18:56
- * description:
+ *test xxk
  */
 
 namespace yiier\AliyunOSS;
